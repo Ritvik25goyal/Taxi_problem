@@ -1,0 +1,13 @@
+Go to the Post Office: west 1st left, 1st right, 1st left.
+Pickup a passenger going to the Chop Suey.
+Go to the Chop Suey: east 1st right, 1st left, 4th right, 1st left.
+[B]
+Switch to plan "C" if no one is waiting.
+Pickup a passenger going to the Little League Field.
+Go to the Little League Field: south 1st right, 1st left, 4th left, 1st left.
+Pickup a passenger going to the Post Office.
+Go to the Post Office: east 1st right, 1st right, 3rd right.
+Go to the Chop Suey: east 1st right, 1st left, 4th right, 1st left.
+Switch to plan "B".
+[C]
+Go to the Taxi Garage: south 1st right, 1st left, 3rd left.
